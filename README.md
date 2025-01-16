@@ -1,4 +1,4 @@
-# NewsReport# News Report Website
+# News Report Website
 
 ## Overview
 The News Report Website is a simple, user-friendly platform that serves as a hub for the latest updates across four major categories: Business, Technology, Sports, and Entertainment. The website provides links to trusted external news sources and displays concise information about each category.
